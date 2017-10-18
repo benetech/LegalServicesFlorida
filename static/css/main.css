@@ -1,0 +1,76 @@
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 70px;
+    height: 70px;
+    padding-top: 0;
+}
+
+
+
+
+
+.navbar-brand img{
+    padding-top: 10px;
+}
+
+
+.unprocessed{
+        background-color: lightyellow
+    }
+
+.accepted{
+        background-color: yellowgreen
+    }
+    
+.rejected{
+        background-color: indianred
+    }
+.select2-input {
+    width: 300px! important;
+}
+
+/*
+.eligibility-update-container {
+    margin-left: 100px;
+}
+
+.move-left {
+    width: auto;
+    box-shadow: none;
+  }
+  
+.paymentaccepted-update-container {
+    margin-left: 100px;
+}
+
+.requireddocument-update-container {
+    margin-left: 100px;
+}
+
+.regularschedule-update-container {
+    margin-left: 100px;
+}
+
+.holidayschedule-update-container {
+    margin-left: 100px;
+}
+
+.servicearea-update-container {
+    margin-left: 100px;
+}
+
+.location-update-container {
+    margin-left: 100px;
+}
+*/
+.contact-update-form {
+    margin-left: 100px;
+}
+
+.physical_address-update-form {
+    margin-left: 100px;
+}
+
+.phone-update-form {
+    margin-left: 100px;
+}

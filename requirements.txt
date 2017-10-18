@@ -1,0 +1,17 @@
+django==1.11
+psycopg2
+django-admin-list-filter-dropdown
+djangorestframework
+markdown
+django-filter
+django-reversion
+django-tables2
+django-widget-tweaks
+django-bootstrap3
+django-crispy-forms
+django-multiselectfield
+django-easy-select2
+django-select2-forms
+django-nested-admin
+django-phonenumber-field
+django-kronos
